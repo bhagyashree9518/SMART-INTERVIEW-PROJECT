@@ -1,0 +1,2 @@
+# SMART-INTERVIEW-PROJECT
+Android AI Based Project
